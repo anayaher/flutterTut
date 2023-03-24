@@ -26,17 +26,17 @@ class MyDrawer extends StatelessWidget {
             ),
           ),
           ListTile(
-            onTap: () {
-              
-            },
+            onTap: () {},
             leading: Icon(CupertinoIcons.home),
             title: Text("Home"),
           ),
           ListTile(
+            onTap: () {},
             leading: Icon(CupertinoIcons.profile_circled),
             title: Text("Profile"),
           ),
           ListTile(
+            onTap: () {},
             leading: Icon(CupertinoIcons.settings),
             title: Text("Settings"),
           )
