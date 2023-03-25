@@ -43,7 +43,7 @@
     {
         "id": 5,
         "name": "Apple Watch Series 8",
-        "decs": "GPS + Cellular with Sports Band (45mm Retina LTPO OLED Display, Gold Stainless Steel Case)",
+        "decs": "GPS + Cellular with Sports Band (45mm Retina, Gold Stainless Steel Case)",
         "price":699,
         "color": "#33505a",
         "image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668270041/Croma%20Assets/Communication/Wearable%20Devices/Images/262077_0_i79sif.png/mxw_1536,f_auto"
@@ -53,7 +53,7 @@
     {
         "id": 6,
         "name": "Apple Watch Ultra ",
-        "decs": "GPS + Cellular with Green Alpine Loop (49mm Retina LTPO OLED Display, Titanium Case)",
+        "decs": "GPS + Cellular with Green Alpine Loop (Titanium Case)",
         "price":900,
         "color": "#33505a",
         "image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1668270473/Croma%20Assets/Communication/Wearable%20Devices/Images/262101_0_pz5rpd.png/mxw_1536,f_auto"
